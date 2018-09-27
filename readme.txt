@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git is free software distributed under the NBA CBA
+Git is free software distributed under the NBA CBA CUBA
